@@ -10,6 +10,7 @@ namespace OkulYonetimSistemi
     {
         private string name;
         private string surname;
+        //Tarih alacağımız için DateTime kullanıyorum.
         private DateTime birthday;
 
         public string Name
@@ -46,6 +47,7 @@ namespace OkulYonetimSistemi
                 birthday = value;
             }
         }
+        // Ekrana yazdıran metod
         public void EkranaYazdir()
         {
             Console.WriteLine($"Ad: {Name}, Soyad: {Surname}, Doğum Tarihi: {Birthday.ToShortDateString()}");
