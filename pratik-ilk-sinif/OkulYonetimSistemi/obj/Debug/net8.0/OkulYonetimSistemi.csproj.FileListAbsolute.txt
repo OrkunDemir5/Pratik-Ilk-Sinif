@@ -1,0 +1,14 @@
+C:\Users\Orkun\source\repos\pratik-ilk-sinif\OkulYonetimSistemi\bin\Debug\net8.0\OkulYonetimSistemi.exe
+C:\Users\Orkun\source\repos\pratik-ilk-sinif\OkulYonetimSistemi\bin\Debug\net8.0\OkulYonetimSistemi.deps.json
+C:\Users\Orkun\source\repos\pratik-ilk-sinif\OkulYonetimSistemi\bin\Debug\net8.0\OkulYonetimSistemi.runtimeconfig.json
+C:\Users\Orkun\source\repos\pratik-ilk-sinif\OkulYonetimSistemi\bin\Debug\net8.0\OkulYonetimSistemi.dll
+C:\Users\Orkun\source\repos\pratik-ilk-sinif\OkulYonetimSistemi\bin\Debug\net8.0\OkulYonetimSistemi.pdb
+C:\Users\Orkun\source\repos\pratik-ilk-sinif\OkulYonetimSistemi\obj\Debug\net8.0\OkulYonetimSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkun\source\repos\pratik-ilk-sinif\OkulYonetimSistemi\obj\Debug\net8.0\OkulYonetimSistemi.AssemblyInfoInputs.cache
+C:\Users\Orkun\source\repos\pratik-ilk-sinif\OkulYonetimSistemi\obj\Debug\net8.0\OkulYonetimSistemi.AssemblyInfo.cs
+C:\Users\Orkun\source\repos\pratik-ilk-sinif\OkulYonetimSistemi\obj\Debug\net8.0\OkulYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Orkun\source\repos\pratik-ilk-sinif\OkulYonetimSistemi\obj\Debug\net8.0\OkulYonetimSistemi.dll
+C:\Users\Orkun\source\repos\pratik-ilk-sinif\OkulYonetimSistemi\obj\Debug\net8.0\refint\OkulYonetimSistemi.dll
+C:\Users\Orkun\source\repos\pratik-ilk-sinif\OkulYonetimSistemi\obj\Debug\net8.0\OkulYonetimSistemi.pdb
+C:\Users\Orkun\source\repos\pratik-ilk-sinif\OkulYonetimSistemi\obj\Debug\net8.0\OkulYonetimSistemi.genruntimeconfig.cache
+C:\Users\Orkun\source\repos\pratik-ilk-sinif\OkulYonetimSistemi\obj\Debug\net8.0\ref\OkulYonetimSistemi.dll

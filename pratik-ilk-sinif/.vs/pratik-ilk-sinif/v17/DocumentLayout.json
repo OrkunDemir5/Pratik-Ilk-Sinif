@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orkun\\source\\repos\\pratik-ilk-sinif\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40BA1467-2462-4F36-B8E4-DF78018D740E}|OkulYonetimSistemi\\OkulYonetimSistemi.csproj|c:\\users\\orkun\\source\\repos\\pratik-ilk-sinif\\okulyonetimsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BA1467-2462-4F36-B8E4-DF78018D740E}|OkulYonetimSistemi\\OkulYonetimSistemi.csproj|solutionrelative:okulyonetimsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BA1467-2462-4F36-B8E4-DF78018D740E}|OkulYonetimSistemi\\OkulYonetimSistemi.csproj|c:\\users\\orkun\\source\\repos\\pratik-ilk-sinif\\okulyonetimsistemi\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BA1467-2462-4F36-B8E4-DF78018D740E}|OkulYonetimSistemi\\OkulYonetimSistemi.csproj|solutionrelative:okulyonetimsistemi\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Orkun\\source\\repos\\pratik-ilk-sinif\\OkulYonetimSistemi\\Person.cs",
+              "RelativeDocumentMoniker": "OkulYonetimSistemi\\Person.cs",
+              "ToolTip": "C:\\Users\\Orkun\\source\\repos\\pratik-ilk-sinif\\OkulYonetimSistemi\\Person.cs",
+              "RelativeToolTip": "OkulYonetimSistemi\\Person.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:21:38.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orkun\\source\\repos\\pratik-ilk-sinif\\OkulYonetimSistemi\\Program.cs",
+              "RelativeDocumentMoniker": "OkulYonetimSistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\Orkun\\source\\repos\\pratik-ilk-sinif\\OkulYonetimSistemi\\Program.cs",
+              "RelativeToolTip": "OkulYonetimSistemi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:21:03.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
